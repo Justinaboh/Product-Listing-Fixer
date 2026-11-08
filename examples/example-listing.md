@@ -13,3 +13,7 @@ Pairs well with **Weekly Planner Pack**. [PASTE LINK HERE]
 **B. Pricing:** launch at $[LAUNCH] and raise to $[LATER] after a few reviews. Note: the skill's anchor ranges target prompt and template products, so a printable like this would likely sit lower. The skill should say so and ask the seller to confirm.
 
 (C, D and E follow the same pattern.)
+
+**Platform (question 11):** Etsy. Description trimmed to a short title plus scannable "What you receive" bullets. Limits marked "verify before publishing".
+**Images (question 12):** box mockup only. No image tool in this example, so the output is one image prompt, labelled "image prompt, not a finished image", using the exact name "Habit Sheets", a neutral palette and a three-quarter angle showing 20 printable sheets.
+**Names:** not offered, because the product already has a name.
