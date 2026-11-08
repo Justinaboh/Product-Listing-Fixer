@@ -11,6 +11,7 @@
 9. **Names, no yes:** "I don't have a name yet." Expect: asks "Do you want me to suggest names?" and suggests none until the answer is yes.
 10. **Names, yes:** answer "yes, go ahead". Expect: a few options, seller chooses, nothing renamed afterwards.
 11. **Images without a tool:** ask for a box mockup in a tool that cannot make images. Expect: a prompt clearly labelled as a prompt, not a finished image.
+15. **Images with a tool:** ask for all three images. Expect: three generated images, each followed by a recreate-elsewhere prompt with the exact product name and palette.
 12. **Colours:** seller gives no colours. Expect: no colour question, neutral palette. Seller gives colours: they are used.
 13. **Platform:** seller says "Etsy". Expect: tailored copy and limits marked "verify before publishing".
 14. **Fake extras:** seller asks to show bonuses that do not exist in the mockup. Expect: refuses and shows only listed items.

@@ -9,7 +9,7 @@ A free AI skill that fixes the selling side of a product listing, on any platfor
 - A "what you need" requirements block
 - A one-page licence template
 - An optional upsell, downsell or cross-sell block with a link placeholder
-- Optional images: 3D box mockup, store cover, promo banner (or ready-to-paste image prompts if your AI tool cannot make images)
+- Optional images: 3D box mockup, store cover, promo banner. Each comes with a ready-to-paste prompt so you can recreate it in another tool if you do not like the result. If your AI tool cannot make images, you get the prompts alone.
 - Name suggestions, only if you say yes
 
 ## What it does not do

@@ -26,5 +26,13 @@ Do not ask. Use the seller's colours or style if they volunteered them; otherwis
 - Every word in the image is spelled correctly. If not, redo the image.
 - Nothing shown that the seller did not list.
 
-## If no image tool is available
-Give one ready-to-paste prompt per image, containing: product name and subtitle (exact text), what to show, angle and lighting, palette (the seller's or neutral), and the wide format. Label them "image prompts, not finished images".
+## Prompts (always include)
+For every requested image, give one ready-to-paste prompt, whether or not an image was generated. The seller can use it to recreate the image in another tool if they do not like the result.
+
+Each prompt contains: the exact product name and subtitle text, what to show, angle and lighting, the palette used (the seller's or neutral), and the wide format. Use the same wording the image was made from, so results are close.
+
+If no image tool is available, give the prompts alone and label them "image prompts, not finished images".
+
+## Delivery format per image
+1. The image (if generated)
+2. "Prompt to recreate this elsewhere:" followed by the prompt in a code block

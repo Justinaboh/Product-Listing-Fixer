@@ -15,5 +15,5 @@ Pairs well with **Weekly Planner Pack**. [PASTE LINK HERE]
 (C, D and E follow the same pattern.)
 
 **Platform (question 11):** Etsy. Description trimmed to a short title plus scannable "What you receive" bullets. Limits marked "verify before publishing".
-**Images (question 12):** box mockup only. No image tool in this example, so the output is one image prompt, labelled "image prompt, not a finished image", using the exact name "Habit Sheets", a neutral palette and a three-quarter angle showing 20 printable sheets.
+**Images (question 12):** box mockup only. With an image tool, the output is the generated image plus a "Prompt to recreate this elsewhere" block. With no image tool, the output is the prompt alone, labelled "image prompt, not a finished image". Either way the prompt uses the exact name "Habit Sheets", a neutral palette and a three-quarter angle showing 20 printable sheets.
 **Names:** not offered, because the product already has a name.

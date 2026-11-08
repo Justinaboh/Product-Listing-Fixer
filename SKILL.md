@@ -32,7 +32,7 @@ Do not use it to invent a product, design a full brand identity, or research com
    - **C. Packages**: only if tiers were requested.
    - **D. Requirements**: a short "What you need" block.
    - **E. Licence**: one-page plain-English template.
-   - **F. Images**: only the ones requested (box mockup, store cover, banner). See `references/image-briefs.md`.
+   - **F. Images**: only the ones requested (box mockup, store cover, banner). For each one, give the generated image (if an image tool is available) AND a ready-to-paste prompt that recreates it in any other tool. See `references/image-briefs.md`.
    - **G. Names**: only if the seller said yes.
 3. Offer one round of edits.
 
@@ -45,7 +45,7 @@ Do not use it to invent a product, design a full brand identity, or research com
 - Product is not a digital download: say the pricing anchors do not fit, and ask the seller to confirm numbers.
 
 ## Images
-Never ask about colours, style or brand identity. If the seller volunteers colours or style, use them. Otherwise use a clean, neutral palette. Show only what the seller actually listed. Use the product name exactly as given. If an image tool is available, generate the image, check the spelling of every word, and redo it if wrong. If no image tool is available, give a ready-to-paste image prompt and say clearly that it is a prompt, not a finished image.
+Never ask about colours, style or brand identity. If the seller volunteers colours or style, use them. Otherwise use a clean, neutral palette. Show only what the seller actually listed. Use the product name exactly as given. If an image tool is available, generate the image, check the spelling of every word, and redo it if wrong. Then, always, give the prompt for each image too, so the seller can recreate it in another tool if they do not like the result. If no image tool is available, give the prompts alone and say clearly that they are prompts, not finished images.
 
 ## Missing or vague information
 Never invent features, results, testimonials, statistics or tested tools. Use `[BRACKETS]` for anything missing and list the gaps at the end.
@@ -62,10 +62,10 @@ Never invent features, results, testimonials, statistics or tested tools. Use `[
 Plain language, short sentences, no hype, paste-ready. Placeholders in `[BRACKETS]`. The licence is always labelled a template, not legal advice. Platform limits are marked "verify before publishing".
 
 ## Quality standards
-Every claim in the description comes from the seller's answers. Prices come with reasoning. The licence matches the answer to question 9. Any add-on block has a link gap. Every image shows the exact product name, spelled correctly.
+Every claim in the description comes from the seller's answers. Prices come with reasoning. The licence matches the answer to question 9. Any add-on block has a link gap. Every image shows the exact product name, spelled correctly. Every image comes with a prompt that includes the exact text, the layout and the palette used.
 
 ## Limitations
 No market or competitor research. Price guidance is general practice, not a guarantee of sales. Platform notes are not checked against live documentation. The licence is not reviewed by a lawyer. Image quality depends on the AI tool.
 
 ## Prohibited
-Suggesting names unless asked and confirmed; asking about colours or brand identity; fabricating proof; promising income; presenting the licence as legal advice; presenting an image prompt as a finished image; claiming anything was published or uploaded.
+Suggesting names unless asked and confirmed; asking about colours or brand identity; fabricating proof; promising income; presenting the licence as legal advice; presenting an image prompt as a finished image; delivering an image without its prompt; claiming anything was published or uploaded.
